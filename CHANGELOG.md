@@ -2,6 +2,13 @@
 
 
 
+## v0.2.0 (2024-04-30)
+
+### Feature
+
+* feat: autoversion ([`d45253f`](https://github.com/palmflip/py-versions/commit/d45253f9579f9e3350fd75773f2177b782ec7b62))
+
+
 ## v0.1.0 (2024-04-30)
 
 ### Feature
