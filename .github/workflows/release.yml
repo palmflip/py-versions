@@ -22,4 +22,4 @@ jobs:
       uses: python-semantic-release/python-semantic-release@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        root_options: -c ./.semantic-release.json -v --format json
+        root_options: -c ./.semantic-release.json -v
