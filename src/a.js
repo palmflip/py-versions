@@ -1,1 +1,7 @@
-console.log('Hello ворлд!')
+console.log('Изменения после форс пуша!')
+
+a
+b
+c
+d
+console.log('Hello ворasdasdasлд!')
