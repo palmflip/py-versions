@@ -8,6 +8,7 @@
         "prerelease": false
       }
     },
+    "version_variables": ["b2b/settings.py:__version__"],
     "changelog": {
       "template_dir": "templates",
       "changelog_file": "CHANGELOG.md",
