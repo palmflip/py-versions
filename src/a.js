@@ -4,3 +4,4 @@ a
 b
 c
 d
+console.log('Hello ворasdasdasлд!')

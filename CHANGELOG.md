@@ -2,6 +2,23 @@
 
 
 
+## v0.3.0 (2024-04-30)
+
+### Feature
+
+* feat: Добавил фичу А ([`508e6d6`](https://github.com/palmflip/py-versions/commit/508e6d660cfbaa4eafbf516306c7ec677f640d5f))
+
+### Fix
+
+* fix: Исправил баг ([`2b5a977`](https://github.com/palmflip/py-versions/commit/2b5a97775da880f63f69f0ff26b5e80535ebab72))
+
+### Unknown
+
+* Merge pull request #1 from palmflip/feat-a
+
+Feat a ([`e9eae9e`](https://github.com/palmflip/py-versions/commit/e9eae9ea1ea6d78adc051b00ea088b068706ee5e))
+
+
 ## v0.2.0 (2024-04-30)
 
 ### Feature
